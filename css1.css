@@ -1,0 +1,12 @@
+#fundo{
+-webkit-transform: translateZ(-1px);
+    transform: translateZ(-1px);
+}
+#garrafa {
+	position: fixed;
+	top:0px;
+	left:50%;
+	-webkit-transform: translateZ(0);
+    transform: translateZ(0);
+}
+
