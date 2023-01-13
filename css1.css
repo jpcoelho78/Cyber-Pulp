@@ -5,8 +5,9 @@
 #garrafa {
 	position: fixed;
 	top:0px;
-	left:50%;
+	left:44%;
 	-webkit-transform: translateZ(0);
     transform: translateZ(0);
+    height: 40%;
 }
 
