@@ -20,5 +20,5 @@ window.onscroll = function() {
 		document.getElementById('garrafa').style.transform ='rotate(' + theta + 'rad)';
 
 		document.getElementById('garrafa').style.top =poxy+'px';
-
 }
+

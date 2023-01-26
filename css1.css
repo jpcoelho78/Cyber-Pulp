@@ -1,6 +1,8 @@
 #fundo{
 -webkit-transform: translateZ(-1px);
     transform: translateZ(-1px);
+
+
 }
 #garrafa {
 	position: fixed;
@@ -11,3 +13,86 @@
     height: 40%;
 }
 
+.responsive {
+    max-width: 100%;
+    height: auto;
+    padding: 0px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: ;
+}
+
+.caixa {
+   position: relative;
+   text-align: center;
+   color: white;
+} 
+
+.titulo {
+   width: 2200px;
+   color: white;
+   position: absolute;
+   top: 78px;
+   left: 205px;
+   font-family: Roboto;
+   font-weight: Bold;
+   font-size: 338px;
+   opacity: 1;
+   text-align: left;
+
+}
+  
+.subtitulo {
+   width: 2003px;
+   color: rgba(17,25,36,1);
+    position: absolute;
+   top: 896px;
+   left: 205px;
+   font-family: Roboto;
+   font-weight: Medium;
+   font-size: 120px;
+   opacity: 1;
+   text-align: left;
+}
+
+.conftextos h1 {
+   color:white ;
+   font-weight: 400;
+   font-size: 128px;
+   font-family: Roboto;
+}
+
+.texto1 {
+   width: 1550px;
+   position: absolute;
+   top: 1708px;
+   right: 205px;
+   text-align: right;
+   justify: center;
+}
+.texto2 {
+  width: 1550px;
+  position: absolute;
+  top: 2527px;
+  left: 205px;
+  text-align: left;
+}
+
+.texto3 {
+   width: 1550px;
+   position: absolute;
+   top: 3608px;
+   right: 205px;
+   text-align: right;
+}
+
+.texto4 {
+  width: 1500px;
+  position: absolute;
+  top: 4527px;
+  left: 205px;
+  text-align: left;
+}  	
