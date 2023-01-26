@@ -71,8 +71,8 @@ body {
    top: 1708px;
    right: 205px;
    text-align: right;
-   justify: center;
 }
+
 .texto2 {
   width: 1550px;
   position: absolute;
@@ -84,15 +84,36 @@ body {
 .texto3 {
    width: 1550px;
    position: absolute;
-   top: 3608px;
+   top: 3508px;
    right: 205px;
    text-align: right;
 }
 
 .texto4 {
-  width: 1500px;
+  width: 1550px;
   position: absolute;
-  top: 4527px;
+  top: 4827px;
   left: 205px;
   text-align: left;
 }  	
+
+.texto5 {
+   width: 1550px;
+   position: absolute;
+   top: 5808px;
+   right: 205px;
+   text-align: right;
+} 	
+
+.texto6 {
+   width: auto;
+   position: absolute;
+   bottom: 0px;
+   text-align: center;
+   text-justify: center;
+   margin: 50px;
+   color:7F94AE ;
+   font-weight: 200;
+   font-size: 68px;
+   font-family: Roboto;
+} 	
