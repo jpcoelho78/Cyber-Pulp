@@ -9,11 +9,11 @@ main.style.backgroundPosition = `-${pageY
 let main2 =
 document.querySelector('main2');
 main2.style.backgroundPosition =
-`-${pageY * 5}px -100px`
+`-${pageY * 5}px -500px`
 
 });
 window.onscroll = function() {
-        var theta = document.documentElement.scrollTop / 50 % Math.PI;
+        var theta = document.documentElement.scrollTop / 70 % Math.PI;
         var poxy = document.documentElement.scrollTop/20;
 
 

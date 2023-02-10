@@ -6,12 +6,18 @@
 }
 #garrafa {
 	position: fixed;
-	top:0px;
-	left:44%;
+	top:2500px;
+	left:auto;%;
 	-webkit-transform: translateZ(0);
     transform: translateZ(0);
     height: 40%;
 }
+
+
+
+
+
+
 
 .responsive {
     max-width: 100%;
@@ -113,3 +119,11 @@ body {
    text-justify: center;
    margin: 50px;
 } 	
+
+
+
+
+
+
+
+
